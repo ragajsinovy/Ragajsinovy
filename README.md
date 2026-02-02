@@ -1,10 +1,6 @@
 <h1 align="center">Cześć 👋, Jestem Igor</h1>
 <h3 align="center">Początkujący Web Developer I Grafik specjalizujący się w React & TypeScript".</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ragajsinovy&label=Profile%20views&color=0e75b6&style=flat" alt="ragajsinovy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ragajsinovy" alt="ragajsinovy" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
